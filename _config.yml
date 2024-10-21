@@ -15,9 +15,6 @@ nav_links:
     url: "/blog/"
   - title: "Projects"
     url: "/projects/"
-  - title: "Accomplishments"
-    url: "/accomplishments/"
-  - title: "Contact"
-    url: "/contact/"
+
 
 markdown: kramdown

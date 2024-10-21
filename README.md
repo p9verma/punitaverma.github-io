@@ -37,7 +37,7 @@
 Implemented **sliding window attention** from the Longformer in **GPT**,  demonstrating improvements on computational efficiency and scalability to handle longer sequences. Experimented with wikitext-103 dataset to measure training complexities, cross-entropy loss, and perplexity for both standard self-attention and sliding window models. Aimed to demonstrate linear complexity over quadratic complexity for large-scale document classification tasks.
 
 ### Financial Advising Agent
-[Code](https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/peterphan1101/Artificial_Intelligence_Projects/blob/main/FinancialAdvisor/extract_financial_info.py)
+[Code](https://github.com/peterphan1101/Artificial_Intelligence_Projects/blob/main/FinancialAdvisor/extract_financial_info.py)
 
 Designed and implemented a **Retrieval-Augmented Generation (RAG)** system to optimize financial decision-making by providing real-time data retrieval and context-aware responses for financial analysis. Integrated OpenAI APIs, LangChain, and Edgar dataset for enhanced natural language processing capabilities, enabling more accurate and contextual responses in the financial domain. Employed RAGAS framework to evaluate agent on RAG response times, hallucination rates, precision, and recall.
 

@@ -1,3 +1,23 @@
-title: Punita Verma
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Punita Verma"
+description: "Senior Data Scientist | AI Enthusiast | Writer"
+baseurl: ""
+url: "https://punitaverma.github.io"
+
+theme: jekyll-theme-minima
+
+# Add Navigation Tabs (used in the layout)
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Writing"
+    url: "/writing/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Accomplishments"
+    url: "/accomplishments/"
+  - title: "Contact"
+    url: "/contact/"
+
+markdown: kramdown

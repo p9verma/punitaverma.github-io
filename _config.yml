@@ -3,7 +3,7 @@ description: "Senior Data Scientist | AI Enthusiast | Writer"
 baseurl: ""
 url: "https://punitaverma.github.io"
 
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 # Add Navigation Tabs (used in the layout)
 nav_links:

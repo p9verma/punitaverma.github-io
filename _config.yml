@@ -3,7 +3,7 @@ description: "Senior Data Scientist | AI Enthusiast | Writer"
 baseurl: ""  # Since your site is at the root, this remains empty
 show_downloads: true
 #url: "https://punitaverma.github.io"
-theme: academic-jekyll-theme
+theme: jekyll-theme-academic
 
 # Add Navigation Tabs (used in the layout)
 nav_links:

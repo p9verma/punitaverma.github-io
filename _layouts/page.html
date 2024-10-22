@@ -8,11 +8,12 @@
 </head>
 <body>
     <div class="container">
+        <!-- Sidebar Navigation -->
         <nav class="sidebar">
             <ul>
-                <li><a href="{{ site.baseurl }}/">Home html</a></li>
-                <li><a href="{{ site.baseurl }}/projects/">Projects html</a></li>
-                <li><a href="{{ site.baseurl }}/blog/">Blog html</a></li>
+                {% for link in site.nav_links %}
+                    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                {% endfor %}
             </ul>
         </nav>
 

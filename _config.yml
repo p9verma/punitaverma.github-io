@@ -1,7 +1,7 @@
 title: "Punita Verma"
 description: "Senior Data Scientist | AI Enthusiast | Writer"
-baseurl: ""  # Since your site is at the root, this remains empty
-url: "https://punitaverma.github.io"
+#baseurl: ""  # Since your site is at the root, this remains empty
+#url: "https://punitaverma.github.io"
 
 theme: jekyll-theme-minimal
 
